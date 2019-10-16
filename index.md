@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP attack surface detector
 tags: example-tag
 level: 4
+type: tool
 
 ---
 
