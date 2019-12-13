@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP attack surface detector
-tags: example-tag
+title: OWASP Attack Surface Detector
+tags: attack-surface-detector
 level: 4
 type: tool
 
@@ -18,9 +18,12 @@ The Attack Surface Detector is available as a plugin to both ZAP and Burp Suite,
 
 For a quick overview of the Attack Surface Detection tool, see this YouTube video:
 
+[![Attack Surface Detector](https://img.youtube.com/vi/jUUJNRcmqwI/0.jpg)](https://www.youtube.com/watch?v=jUUJNRcmqwI)
 
 
 Below is a screenshot of the Burp Suite Attack Surface Detector plugin where you can see a list of endpoints, endpoint details, and their corresponding requests:
+
+![ASD Screenshot](assets/images/ASD-Endpoint-Screens.png)
 
 ### How it Works
 The Attack Surface Detector performs static code analyses to identify web application endpoints by parsing routes and identifying parameters (with supported languages and frameworks). This data is made available in ZAP and Burp Suite to help improve testing coverage.
