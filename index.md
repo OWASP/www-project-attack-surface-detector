@@ -18,7 +18,7 @@ The Attack Surface Detector is available as a plugin to both ZAP and Burp Suite,
 
 For a quick overview of the Attack Surface Detection tool, see this YouTube video:
 
-[![Attack Surface Detector](https://img.youtube.com/vi/jUUJNRcmqwI/0.jpg)](https://www.youtube.com/watch?v=jUUJNRcmqwI)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=jUUJNRcmqwI" target="_blank"><img src="assets/images/ASD_yt_img.png" width="800" height="450" border="10" /></a>
 
 
 Below is a screenshot of the Burp Suite Attack Surface Detector plugin where you can see a list of endpoints, endpoint details, and their corresponding requests:
