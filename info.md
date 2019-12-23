@@ -29,7 +29,7 @@ The Attack Surface Detector is available in the ZAP Marketplace and PortSwigger 
 * Email: [ken.prole@codedx.com](mailto:ken.prole@codedx.com)
 * [Email us](mailto:info@codedx.com)
 * [Code Dx twitter](https://twitter.com/codedx)
-* [Get Access](https://coreruleset.org/20181003/owasp-crs-slack/) to join the discussion in the OWASP Slack Channel, #attack-surface-detector.
+* [Get Access](http://owaspslack.com/) to join the discussion in the OWASP Slack Channel, #attack-surface-detector.
 
 ### Related Projects
 * [OWASP Zed Attack Proxy Project](https://www2.owasp.org/www-project-zap/)
