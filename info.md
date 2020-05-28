@@ -20,20 +20,20 @@ The Attack Surface Detector is available in the ZAP Marketplace and PortSwigger 
 * [GitHub Source Code](https://github.com/secdec/attack-surface-detector-cli)
 
 ### News and Events
-* 24 Aug 2018 [Version 1.1.2 of the ASD ZAP plugin is out!](https://github.com/secdec/attack-surface-detector-zap/releases)
-* 23 Aug 2018 [Version 1.1.2 of the ASD Burp Suite plugin is out!](https://github.com/secdec/attack-surface-detector-burp/releases)
-* 20 Jul 2018 [Version 1.2.16 of the ASD CLI is out!](https://github.com/secdec/attack-surface-detector-cli/releases)
+* 7 Mar 2019 [Version 1.1.4 of the ASD ZAP plugin is out!](https://github.com/secdec/attack-surface-detector-zap/releases)
+* 8 Feb 2019 [Version 1.1.3 of the ASD Burp Suite plugin is out!](https://github.com/secdec/attack-surface-detector-burp/releases)
+* 1 Nov 2018 [Version 1.3.5 of the ASD CLI is out!](https://github.com/secdec/attack-surface-detector-cli/releases)
 
 ### Contact Us
 * Project Leader: Ken Prole
 * Email: [ken.prole@codedx.com](mailto:ken.prole@codedx.com)
 * [Email us](mailto:info@codedx.com)
 * [Code Dx twitter](https://twitter.com/codedx)
-* [Get Access](http://owaspslack.com/) to join the discussion in the OWASP Slack Channel, #attack-surface-detector.
+* [Get Access](https://owasp-slack.herokuapp.com/) to join the discussion in the OWASP Slack Channel, #attack-surface-detector.
 
 ### Related Projects
-* [OWASP Zed Attack Proxy Project](https://www2.owasp.org/www-project-zap/)
-* [OWASP Code Pulse Project](https://www2.owasp.org/www-project-code-pulse/)
+* [OWASP Zed Attack Proxy Project](https://www.owasp.org/www-project-zap/)
+* [OWASP Code Pulse Project](https://www.owasp.org/www-project-code-pulse/)
 
 ### Classifications
 ![New projects](assets/images/New_projects.png)
