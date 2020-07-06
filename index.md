@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Attack Surface Detector
 tags: attack-surface-detector
-level: 2
+level: 3
 type: tool
 
 ---
