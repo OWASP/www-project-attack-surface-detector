@@ -47,4 +47,4 @@ Contributions to the Attack Surface Detector project are encouraged and welcome.
 The Attack Surface Detector plugin is free to use. It is licensed under the [link Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
 ### Acknowledgements
-The Attack Surface Detection project is led by [Code Dx](https://codedx.com/) and was developed in collaboration with [Denim Group](https://www.denimgroup.com/) under a research grant sponsored by the Department of Homeland Security (DHS) Science and Technology Directorate, Cyber Security Division (DHS S&T/CSD), BAA via contract number HHSP233201600058C.
+The Attack Surface Detection project is led by [Code Dx](https://codedx.com/) and was developed by [Secure Decisions](https://securedecisions.com/) in collaboration with [Denim Group](https://www.denimgroup.com/) under a research grant sponsored by the Department of Homeland Security (DHS) Science and Technology Directorate, Cyber Security Division (DHS S&T/CSD), BAA via contract number HHSP233201600058C.
