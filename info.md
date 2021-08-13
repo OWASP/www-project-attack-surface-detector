@@ -26,8 +26,7 @@ The Attack Surface Detector is available in the ZAP Marketplace and PortSwigger 
 
 ### Contact Us
 * Project Leader: Ken Prole
-* Email: [ken.prole@codedx.com](mailto:ken.prole@codedx.com)
-* [Email us](mailto:info@codedx.com)
+* Email: [ken.prole@synopsys.com](mailto:ken.prole@synopsys.com)
 * [Code Dx twitter](https://twitter.com/codedx)
 * [Get Access](https://owasp-slack.herokuapp.com/) to join the discussion in the OWASP Slack Channel, #attack-surface-detector.
 
