@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Ken Prole](mailto://)
+* [Ken Prole](mailto:ken.prole@owasp.org)
