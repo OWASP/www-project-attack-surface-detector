@@ -1,0 +1,35 @@
+audience:
+  - breaker
+  - defender
+community:
+  - name: attack-surface-detector
+    platform: slack
+    url: https://owasp.slack.com/archives/CRB3K4R2P
+    description: Discuss the OWASP Attack Surface Detector Project (<https://owasp.org/www-project-attack-surface-detector/>)
+leaders:
+  - name: Ken Prole
+    email: ken.prole@owasp.org
+    github: KenProle
+level: 3
+license:
+  - MPL-2.0
+name: OWASP Attack Surface Detector
+pitch: Description for OWASP Attack Surface Detector
+repositories:
+  - name: www-project-attack-surface-detector
+    url: https://github.com/OWASP/www-project-attack-surface-detector
+    description: OWASP Foundation Web Repository
+  - name: attack-surface-detector-burp
+    url: https://github.com/secdec/attack-surface-detector-burp
+    description: The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters
+  - name: attack-surface-detector-cli
+    url: https://github.com/secdec/attack-surface-detector-cli
+  - name: attack-surface-detector-zap
+    url: https://github.com/secdec/attack-surface-detector-zap
+    description: The Attack Surface Detector uses static code analyses to identify web app endpoints by parsing routes and identifying parameters
+tags:
+  - attack-surface-detector
+  - custom-tag-1
+  - custom-tag-2
+type: tool
+website: https://owasp.org/www-project-attack-surface-detector
